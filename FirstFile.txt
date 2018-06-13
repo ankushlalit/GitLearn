@@ -1,4 +1,6 @@
+Adding first line
 This is a first file.
 This is for learning git from command line.
 Today's date is 06/13/18
 Weather is good.
+Adding last line
